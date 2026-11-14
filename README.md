@@ -43,10 +43,16 @@ My career interests lie in the fields of:
 
 💻 Technical Skills
 
-* Basic C Programming
-* Computer Fundamentals
-* Problem Solving
-* Basic Programming Concepts
+Technical Skills
+
+* Programming: Basic Python, C Programming, and problem-solving.
+* Genetics & Molecular Biology: Fundamentals of Genetics, DNA Structure, DNA Replication, and Molecular Biology.
+* Bioinformatics: Basic understanding of biological databases, sequence analysis, and biological data.
+* Artificial Intelligence: Introduction to Artificial Intelligence, Machine Learning, and their applications in healthcare.
+* Tools & Platforms: GitHub, Google Colab, Microsoft Word, PowerPoint, and Excel.
+* Research Skills: Basic scientific research, academic documentation, data organisation, and presentation skills.
+
+Currently developing my programming, bioinformatics, and AI skills through academic learning and practical projects.
 
 📂 Academic Projects
 

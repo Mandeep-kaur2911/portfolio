@@ -67,7 +67,7 @@ My career interests lie in the fields of:
 - Type: Group Academic Project
 - Status: Completed
 
-![3D DNA Model](genetics project mandeep kaur.pdf)
+![3D DNA Model](https://github.com/Mandeep-kaur2911/portfolio/blob/main/genetics%20project%20mandeep%20kaur.pdf)
 
 3. Promoter Concept and Promoter Strength in E. coli
 

@@ -109,6 +109,4 @@ Interested in teamwork, collaboration and participating in academic activities t
 🚀 Future Goals
 
 To develop practical expertise in genetics, bioinformatics and artificial intelligence and contribute to technology-driven research and healthcare innovation.
-🚀 Future Goals
 
-To develop practical expertise in genetics, bioinformatics and artificial intelligence and contribute to technology-driven research and healthcare innovation.

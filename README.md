@@ -87,6 +87,12 @@ Learning Outcomes: Understanding bacterial promoters, -35 and -10 regions, trans
 
 Learning Outcome: Gained introductory knowledge of how Artificial Intelligence is applied in healthcare, including its role in medical technology, healthcare innovation and patient care.
 
+### AI Applications in Healthcare
+- Platform: Simplilearn SkillUp
+- Status: Completed
+
+[View Certificate](https://github.com/Mandeep-kaur2911/portfolio.git)
+
 🔬 Research Interests
 
 * Genetics and Genomics

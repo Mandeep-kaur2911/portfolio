@@ -63,6 +63,12 @@ My career interests lie in the fields of:
 * Skills Developed: Teamwork, creativity, scientific understanding, presentation and communication skills.
 * Status: Completed
 
+### 3D DNA Double Helix Model
+- Type: Group Academic Project
+- Status: Completed
+
+![3D DNA Model]()
+
 3. Promoter Concept and Promoter Strength in E. coli
 
 * Project Type: Individual Academic Assignment
